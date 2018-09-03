@@ -26,7 +26,7 @@ $ go build -o dist/hello-world 01-hello-world.go
 
 Newer versions of go require a module to be set.
 
-#### solution
+#### Solution
 
 Add a `go.mod` to the project:
 
@@ -39,6 +39,11 @@ echo 'github.com/lsdr/go-by-example' > go.mod
 
 ## Links and References
 
+#### See Also
+
+* [Effective Go][efgo], Go Programming Language official docs
+
+
 #### `vgo` and build problems
 * <https://stackoverflow.com/questions/50803978/golang-how-to-use-vgo-error-cannot-find-package>
 * <https://github.com/golang/go/issues/25176>
@@ -50,3 +55,4 @@ echo 'github.com/lsdr/go-by-example' > go.mod
 
 [goex]: https://gobyexample.com/
 [goland]: https://www.jetbrains.com/go/
+[efgo]: https://golang.org/doc/effective_go.html
