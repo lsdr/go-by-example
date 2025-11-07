@@ -43,7 +43,7 @@ echo 'github.com/lsdr/go-by-example' > go.mod
 
 * [Code Organization section][gocorg], How to Write Go Code
 * [Effective Go][efgo], Go Programming Language official docs
-* [Getting started with VS Code Go][vsog]
+* [Getting started with VS Code Go][vsgo]
 
 
 #### `vgo` and build problems
