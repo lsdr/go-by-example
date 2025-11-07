@@ -16,7 +16,7 @@ T.B.D.
 ### building binaries to `dist` dir
 
 ```sh
-$ go build -o dist/hello-world 01-hello-world.go
+$ go build -o dist/hello-world 01-hello-world/01-hello-world.go
 ```
 
 
@@ -41,7 +41,9 @@ echo 'github.com/lsdr/go-by-example' > go.mod
 
 #### See Also
 
+* [Code Organization section][gocorg], How to Write Go Code
 * [Effective Go][efgo], Go Programming Language official docs
+* [Getting started with VS Code Go][vsog]
 
 
 #### `vgo` and build problems
@@ -56,3 +58,5 @@ echo 'github.com/lsdr/go-by-example' > go.mod
 [goex]: https://gobyexample.com/
 [goland]: https://www.jetbrains.com/go/
 [efgo]: https://golang.org/doc/effective_go.html
+[gocorg]: https://go.dev/doc/code#Organization
+[vsgo]: https://www.youtube.com/watch?v=1MXIGYrMk80
