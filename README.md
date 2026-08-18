@@ -10,7 +10,7 @@ Install [GoLand][goland] by Jetbrains and have fun
 
 ### Vim / NeoVim
 
-T.B.D.
+LazyVim has a pretty sweet [out-of-the-box setup for Go][lazygo]
 
 ### building binaries to `dist` dir
 
@@ -55,3 +55,4 @@ echo 'github.com/lsdr/go-by-example' > go.mod
 [efgo]: https://golang.org/doc/effective_go.html
 [gocorg]: https://go.dev/doc/code#Organization
 [vsog]: https://code.visualstudio.com/docs/languages/go
+[lazygo]: https://www.lazyvim.org/extras/lang/go
